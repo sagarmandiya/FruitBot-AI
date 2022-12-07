@@ -1,2 +1,0 @@
-cat main.js gamestate.js possiblemoves.js scorer.js minimaxplayer.js timekeeper.js > ./mybot.js
-get-content main.js,gamestate.js,possiblemoves.js,scorer.js,minimaxplayer.js,timekeeper.js | out-file mybot.js
